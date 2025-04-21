@@ -85,3 +85,4 @@ Once you have the URL and Authorization token:
 
 - The script also saves a JSON file with all metadata about the meeting alongside the video file.
 - The downloaded videos are named with the format: `[DATE]_[MEETING_NAME].mp4`
+- All credits goes to [Akash's original code](https://gist.github.com/akash-gajjar/24fc183f6b25c74750606606f2319d01)
